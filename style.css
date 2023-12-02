@@ -1,1 +1,10 @@
+body {
+  backgroundcolor: blue;
+}
 
+h1 {
+  font-size: 72px;
+  font-weight: 600;
+  color: #E1D4C9;  
+  line height: 105%;
+}

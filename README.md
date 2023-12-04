@@ -1,2 +1,2 @@
 # rsschool-cv
-students working zone
+https://VeilchenValchen.github.io/rsschool-cv/cv

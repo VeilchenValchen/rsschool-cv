@@ -1,2 +1,2 @@
 # rsschool-cv
-https://VeilchenValchen.github.io/rsschool-cv/cv
+https://VeilchenValchen.github.io/rsschool-cv
